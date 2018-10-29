@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 308 128" id="el_rkEnfg8Z37"><style>@-webkit-keyframes el_ryv2MlIZ27_Animation{0%{opacity: 0;}6.67%{opacity: 1;}13.33%{opacity: 0;}20%{opacity: 1;}30%{opacity: 1;}36.67%{opacity: 0;}43.33%{opacity: 1;}50%{opacity: 0;}61.11%{opacity: 1;}66.67%{opacity: 0;}73.33%{opacity: 1;}80%{opacity: 0;}86.67%{opacity: 1;}100%{opacity: 1;}}@keyframes el_ryv2MlIZ27_Animation{0%{opacity: 0;}6.67%{opacity: 1;}13.33%{opacity: 0;}20%{opacity: 1;}30%{opacity: 1;}36.67%{opacity: 0;}43.33%{opacity: 1;}50%{opacity: 0;}61.11%{opacity: 1;}66.67%{opacity: 0;}73.33%{opacity: 1;}80%{opacity: 0;}86.67%{opacity: 1;}100%{opacity: 1;}}#el_rkEnfg8Z37 *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_S1I3fe8bnX{-webkit-transform: translate(-118px, -143.47px);transform: translate(-118px, -143.47px);}#el_r1K2zxL-2m{-webkit-transform: translate(-118px, -143.47px);transform: translate(-118px, -143.47px);}#el_rJchzeLWhm{-webkit-transform: translate(-118px, -143.47px);transform: translate(-118px, -143.47px);}#el_HyohGlLWhQ{-webkit-transform: translate(-118px, -143.47px);transform: translate(-118px, -143.47px);}#el_ryv2MlIZ27{-webkit-animation-name: el_ryv2MlIZ27_Animation;animation-name: el_ryv2MlIZ27_Animation;opacity: 0;}</style>
+  <title>carhorn</title>
+  <g id="el_SJHnzgIW2m" data-name="Layer 1">
+    <path d="M305.5,159.5c-45.07,27.92-74.42,46.1-106,42-6.1-.79-12.87-2.49-20.5-2.88V193.5a4.5,4.5,0,0,0-9,0v5.37c-.64.07-1.29.15-1.95.25A26,26,0,1,0,166.5,222c1.19.29,2.36.53,3.5.71v1.77a4.5,4.5,0,0,0,9,0v-1.21c7-.23,13-1.87,18.5-2.79a75,75,0,0,1,7.54-.85c-5.48,3.45-9,9-9,15.35,0,10.49,9.85,19,22,19s22-8.51,22-19a17.35,17.35,0,0,0-4.62-11.64c20.22,5.82,40.79,17.48,63.12,30.14,9.61,5.45,17.07,10.42,21.56,13.52l1.44-118C318.09,151.37,312.53,155.15,305.5,159.5Z" id="el_S1I3fe8bnX"/>
+  </g>
+  <g id="el_ryv2MlIZ27" data-name="Layer 2">
+    <g id="el_S1OnMgLZh7">
+      <path d="M357.66,182.84l53.54-27.08a6.51,6.51,0,0,0,2.87-8.73h0a6.52,6.52,0,0,0-8.73-2.87L351.8,171.24a6.5,6.5,0,0,0,5.86,11.6Z" id="el_r1K2zxL-2m"/>
+      <path d="M413.65,259.29l-55.2-23.54a6.5,6.5,0,0,0-5.1,12l55.2,23.54a6.5,6.5,0,0,0,5.1-12Z" id="el_rJchzeLWhm"/>
+      <path d="M420.73,203.15l-60-2.29a6.5,6.5,0,0,0-.5,13l60,2.29a6.5,6.5,0,0,0,.5-13Z" id="el_HyohGlLWhQ"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg id="el_HyY6abh72m" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 343 352"><style>@-webkit-keyframes el_HJi6TZnQ2X_Animation{0%{opacity: 1;}50%{opacity: 0;}100%{opacity: 1;}}@keyframes el_HJi6TZnQ2X_Animation{0%{opacity: 1;}50%{opacity: 0;}100%{opacity: 1;}}@-webkit-keyframes el_SJxeTpZhmnX_Animation{0%{opacity: 0;}46.67%{opacity: 1;}96.67%{opacity: 0;}100%{opacity: 0;}}@keyframes el_SJxeTpZhmnX_Animation{0%{opacity: 0;}46.67%{opacity: 1;}96.67%{opacity: 0;}100%{opacity: 0;}}@-webkit-keyframes el_By-l6pZ3m3m_Animation{0%{opacity: 0;}46.67%{opacity: 1;}96.67%{opacity: 0;}100%{opacity: 0;}}@keyframes el_By-l6pZ3m3m_Animation{0%{opacity: 0;}46.67%{opacity: 1;}96.67%{opacity: 0;}100%{opacity: 0;}}#el_HyY6abh72m *{-webkit-animation-duration: 1s;animation-duration: 1s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_S1qTaWnXh7{fill: red;}#el_HJnp6b3Q2m{fill: #fff;}#el_SJ66a-3Q37{fill: #fff;}#el_B1C6pb2737{fill: #fff;}#el_ByygpaZhXh7{fill: #fff;}#el_SJxeTpZhmnX{fill: red;-webkit-transform: translate(82.92px, -44.06px) rotate(34.9deg);transform: translate(82.92px, -44.06px) rotate(34.9deg);-webkit-animation-name: el_SJxeTpZhmnX_Animation;animation-name: el_SJxeTpZhmnX_Animation;opacity: 0;}#el_By-l6pZ3m3m{fill: red;-webkit-transform: translate(673.32px, 108.13px) rotate(146.55deg);transform: translate(673.32px, 108.13px) rotate(146.55deg);-webkit-animation-name: el_By-l6pZ3m3m_Animation;animation-name: el_By-l6pZ3m3m_Animation;opacity: 0;}#el_HJi6TZnQ2X{-webkit-animation-name: el_HJi6TZnQ2X_Animation;animation-name: el_HJi6TZnQ2X_Animation;opacity: 1;}</style>
+  <defs>
+    
+  </defs>
+  <title>opendoorwarning</title>
+  <rect x="76.67" width="195.11" height="352.07" rx="42.32" ry="42.32" id="el_S1qTaWnXh7"/>
+  <rect x="76.82" y="0.1" width="195.11" height="352.07" rx="42.32" ry="42.32" id="el_HJi6TZnQ2X"/>
+  <polygon points="132.47 113.03 216.7 113.03 258.82 65.56 90.35 65.56 132.47 113.03" id="el_HJnp6b3Q2m"/>
+  <polygon points="216.7 231.88 132.47 231.88 90.35 279.35 258.82 279.35 216.7 231.88" id="el_SJ66a-3Q37"/>
+  <polygon points="109.22 215.67 108.91 131.44 90.06 89.39 90.68 257.86 109.22 215.67" id="el_B1C6pb2737"/>
+  <polygon points="237.96 131.48 237.96 215.72 256.66 257.84 256.66 89.36 237.96 131.48" id="el_ByygpaZhXh7"/>
+  <rect x="68.58" y="103.21" width="15.84" height="145.43" rx="7.92" ry="7.92" id="el_SJxeTpZhmnX"/>
+  <rect x="323.45" y="103.21" width="15.84" height="145.43" rx="7.92" ry="7.92" id="el_By-l6pZ3m3m"/>
+</svg>

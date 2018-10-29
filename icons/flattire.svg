@@ -1,0 +1,24 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 600 600" style="enable-background:new 0 0 1366 768;" xml:space="preserve" id="el_MVxVtiZFs"><style>@-webkit-keyframes el_4ymKOsMTHM_mqYW4Hl0L_Animation{0%{-webkit-transform: translate(110px, 134px) rotate(0deg) translate(-110px, -134px);transform: translate(110px, 134px) rotate(0deg) translate(-110px, -134px);}50%{-webkit-transform: translate(110px, 134px) rotate(1800deg) translate(-110px, -134px);transform: translate(110px, 134px) rotate(1800deg) translate(-110px, -134px);}100%{-webkit-transform: translate(110px, 134px) rotate(1800deg) translate(-110px, -134px);transform: translate(110px, 134px) rotate(1800deg) translate(-110px, -134px);}}@keyframes el_4ymKOsMTHM_mqYW4Hl0L_Animation{0%{-webkit-transform: translate(110px, 134px) rotate(0deg) translate(-110px, -134px);transform: translate(110px, 134px) rotate(0deg) translate(-110px, -134px);}50%{-webkit-transform: translate(110px, 134px) rotate(1800deg) translate(-110px, -134px);transform: translate(110px, 134px) rotate(1800deg) translate(-110px, -134px);}100%{-webkit-transform: translate(110px, 134px) rotate(1800deg) translate(-110px, -134px);transform: translate(110px, 134px) rotate(1800deg) translate(-110px, -134px);}}@-webkit-keyframes el_TIRTGHjo8q_Animation{2.22%{opacity: 0;}50%{opacity: 0;}51.11%{opacity: 1;}0%{opacity: 0;}100%{opacity: 1;}}@keyframes el_TIRTGHjo8q_Animation{2.22%{opacity: 0;}50%{opacity: 0;}51.11%{opacity: 1;}0%{opacity: 0;}100%{opacity: 1;}}#el_MVxVtiZFs *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_ico-tf7dbM{fill: #FFFFFF;}#el_y8Bgy6oFMo{fill: #FFFFFF;}#el_b1HUnu2v52{fill: #FFFFFF;}#el_AJ-Nhxys6I{fill: #FFFFFF;}#el_TIRTGHjo8q{-webkit-animation-name: el_TIRTGHjo8q_Animation;animation-name: el_TIRTGHjo8q_Animation;}#el_4ymKOsMTHM_mqYW4Hl0L{-webkit-animation-name: el_4ymKOsMTHM_mqYW4Hl0L_Animation;animation-name: el_4ymKOsMTHM_mqYW4Hl0L_Animation;}</style>
+
+<g id="el_TIRTGHjo8q">
+	<path d="M156.5,211h-91c-5.2,0-9.5-4.3-9.5-9.5v0c0-5.2,4.3-9.5,9.5-9.5h91c5.2,0,9.5,4.3,9.5,9.5v0C166,206.7,161.7,211,156.5,211&#xA;&#9;&#9;z" id="el_ljVXfqb7zW"/>
+</g>
+<g id="el_4ymKOsMTHM_mqYW4Hl0L" data-animator-group="true" data-animator-type="1"><g id="el_4ymKOsMTHM">
+	<g id="el_2HLY5aBN5j">
+		<g id="el_xIBSdvmgVD">
+			<path d="M110,57c-42.5,0-77,34.5-77,77s34.5,77,77,77s77-34.5,77-77S152.5,57,110,57z M134.8,172.7l0.1,0.5l-0.5-0.3&#xA;&#9;&#9;&#9;&#9;c-7.1,4.5-15.5,7-24.5,7c-9.2,0-17.7-2.7-24.9-7.3l-1,0.6l0.2-1.1C72,163.9,64,149.9,64,134c0-25.2,20.3-45.7,45.5-46l0,0l0,0&#xA;&#9;&#9;&#9;&#9;c0.2,0,0.3,0,0.5,0c25.4,0,46,20.6,46,46C156,150.3,147.6,164.5,134.8,172.7z" id="el_v8DcRKwYQS"/>
+		</g>
+		<g id="el_RCbNCT_gB4">
+			<path d="M80,134.5c0-0.5,0-1,0-1.6l-11.7-12.4l16.7-2.6c3.8-5.6,9.5-9.8,16.2-11.7l8.2-18.2&#xA;&#9;&#9;&#9;&#9;C84.3,88.3,64,108.8,64,134c0,15.9,8,29.9,20.3,38.1l2.9-18.4C82.7,148.6,80,141.9,80,134.5z" id="el_ico-tf7dbM"/>
+		</g>
+		<g id="el_X_68JSzcYP">
+			<path d="M109.5,164c-2.6,0-5.2-0.3-7.6-1l-16.8,9.6c7.2,4.6,15.7,7.3,24.9,7.3c9,0,17.4-2.6,24.5-7l-17.4-9.9&#xA;&#9;&#9;&#9;&#9;C114.7,163.7,112.1,164,109.5,164z" id="el_y8Bgy6oFMo"/>
+		</g>
+		<g id="el_uqzrLm0yKZ">
+			<path d="M110,88c-0.2,0-0.3,0-0.5,0l8.2,18.2c6.7,1.9,12.3,6.1,16.2,11.7l16.7,2.6L139,132.9c0,0.5,0,1,0,1.6&#xA;&#9;&#9;&#9;&#9;c0,7.4-2.7,14.1-7.2,19.2l3,19c12.7-8.2,21.2-22.5,21.2-38.7C156,108.6,135.4,88,110,88z" id="el_b1HUnu2v52"/>
+		</g>
+		<path d="M139,134.5c0-0.5,0-1,0-1.6l11.7-12.4l-16.7-2.6c-3.8-5.6-9.5-9.8-16.2-11.7L109.5,88l0,0l0,0l-8.2,18.2&#xA;&#9;&#9;&#9;c-6.7,1.9-12.3,6.1-16.2,11.7l-16.7,2.6L80,132.9c0,0.5,0,1,0,1.6c0,7.4,2.7,14.1,7.2,19.2l-2.9,18.4l-0.2,1.1l1-0.6l16.8-9.6&#xA;&#9;&#9;&#9;c2.4,0.6,5,1,7.6,1s5.2-0.3,7.6-1l17.4,9.9l0.5,0.3l-0.1-0.5l-3-19C136.3,148.6,139,141.9,139,134.5z M109.5,151&#xA;&#9;&#9;&#9;c-9.7,0-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5s17.5,7.8,17.5,17.5S119.2,151,109.5,151z" id="el_Cz5ilW4vPF"/>
+		<circle cx="109.5" cy="133.5" r="17.5" id="el_AJ-Nhxys6I"/>
+	</g>
+</g></g>
+</svg>

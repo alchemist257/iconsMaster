@@ -1,0 +1,10 @@
+<svg id="el_ByKc4IXAjQ" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 149 323"><style>@-webkit-keyframes el_rJncVLQCs7_Animation{0%{opacity: 0;}66.67%{opacity: 0;}83.33%{opacity: 1;}100%{opacity: 0;}}@keyframes el_rJncVLQCs7_Animation{0%{opacity: 0;}66.67%{opacity: 0;}83.33%{opacity: 1;}100%{opacity: 0;}}@-webkit-keyframes el_BJs9NIQAom_Animation{0%{opacity: 0;}33.33%{opacity: 0;}50%{opacity: 1;}66.67%{opacity: 0;}100%{opacity: 0;}}@keyframes el_BJs9NIQAom_Animation{0%{opacity: 0;}33.33%{opacity: 0;}50%{opacity: 1;}66.67%{opacity: 0;}100%{opacity: 0;}}@-webkit-keyframes el_rJa5NU70sm_Animation{0%{opacity: 0;}16.67%{opacity: 1;}33.33%{opacity: 0;}100%{opacity: 0;}}@keyframes el_rJa5NU70sm_Animation{0%{opacity: 0;}16.67%{opacity: 1;}33.33%{opacity: 0;}100%{opacity: 0;}}#el_ByKc4IXAjQ *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_BJs9NIQAom{fill: #d9e021;-webkit-animation-name: el_BJs9NIQAom_Animation;animation-name: el_BJs9NIQAom_Animation;opacity: 0;}#el_rJncVLQCs7{fill: #009245;-webkit-animation-name: el_rJncVLQCs7_Animation;animation-name: el_rJncVLQCs7_Animation;opacity: 0;}#el_rJa5NU70sm{fill: #d4145a;-webkit-animation-name: el_rJa5NU70sm_Animation;animation-name: el_rJa5NU70sm_Animation;opacity: 0;}</style>
+  <defs>
+    
+  </defs>
+  <title>trafficlight</title>
+  <rect width="149" height="323" rx="12" ry="12" id="el_Bkq9VL7Rom"/>
+  <circle id="el_BJs9NIQAom" cx="74" cy="165" r="45"/>
+  <circle id="el_rJncVLQCs7" cx="74" cy="266" r="45"/>
+  <circle id="el_rJa5NU70sm" cx="75" cy="58" r="45"/>
+</svg>

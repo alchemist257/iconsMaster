@@ -1,0 +1,29 @@
+/**
+* Document Grid
+*
+* Creates a three column grid for our icons
+*/
+
+.grid {
+	display: grid !important;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 1rem;
+}
+
+.container {
+  margin:0 auto;
+  max-width:
+}
+
+.Layer_2:not(hover) .Layer_2 {
+  display: none;
+  fill: red;
+}
+
+.Layer_1:hover .Layer_1 {
+  display: none;
+}
+
+#sun_and_moon:hover .Layer_2 {
+  display: block;
+}

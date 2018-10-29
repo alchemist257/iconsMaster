@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 209" id="el_ry7ycSb3X"><style>@-webkit-keyframes el_BJzmk5SW2m_Animation{0%{opacity: 0;}6.67%{opacity: 1;}13.33%{opacity: 0;}20%{opacity: 1;}26.67%{opacity: 0;}33.33%{opacity: 1;}40%{opacity: 0;}100%{opacity: 0;}}@keyframes el_BJzmk5SW2m_Animation{0%{opacity: 0;}6.67%{opacity: 1;}13.33%{opacity: 0;}20%{opacity: 1;}26.67%{opacity: 0;}33.33%{opacity: 1;}40%{opacity: 0;}100%{opacity: 0;}}#el_ry7ycSb3X *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-play-state: running;animation-play-state: running;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_SJ-QJqHb3Q{-webkit-transform: translate(-63px, -70px);transform: translate(-63px, -70px);}#el_B1N7k5B-2Q{fill: #fff;-webkit-transform: translate(-63px, -70px);transform: translate(-63px, -70px);}#el_BJHXk5S-n7{fill: #fff;}#el_ry7ycSb3X:hover #el_BJzmk5SW2m{-webkit-animation-name: el_BJzmk5SW2m_Animation;animation-name: el_BJzmk5SW2m_Animation;}</style>
+  <defs>
+    
+  </defs>
+  <title>check_engine</title>
+  <g id="el_H1emJ5Bb37" data-name="Layer 1">
+    <path d="M351,242.32l-.36-70.38L330.57,141,330,234.51V167H297V141H248.35l-15.81-27.15-25.54.24V94h27a12,12,0,0,0,0-24H157a12,12,0,0,0,0,24h26v20c0,.1,0,.21,0,.31l-24.92.23L142.75,141H114v43H87V154a12,12,0,0,0-24,0v80a12,12,0,0,0,24,0V204h27v43h37.08l18.78,32.53L173,279H297V237h33l-.24,40.33Z" id="el_SJ-QJqHb3Q"/>
+  </g>
+  <g id="el_BJzmk5SW2m" data-name="Layer 2">
+    <g id="el_BJ7mJcHb2X">
+      <path d="M205,210a12,12,0,0,0,12-12V159a12,12,0,0,0-24,0v39A12,12,0,0,0,205,210Z" id="el_B1N7k5B-2Q"/>
+      <circle cx="143" cy="162" r="12" id="el_BJHXk5S-n7"/>
+    </g>
+  </g>
+</svg>

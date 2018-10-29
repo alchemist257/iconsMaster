@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 538 398" id="el_HytGeZOM27"><style>@-webkit-keyframes el_B16zx-_z3m_Animation{0%{opacity: 0;}6.67%{opacity: 1;}13.33%{opacity: 0;}20%{opacity: 1;}26.67%{opacity: 0;}33.33%{opacity: 1;}40%{opacity: 0;}46.67%{opacity: 1;}53.33%{opacity: 0;}60%{opacity: 1;}66.67%{opacity: 0;}73.33%{opacity: 1;}80%{opacity: 0;}86.67%{opacity: 1;}93.33%{opacity: 0;}100%{opacity: 1;}}@keyframes el_B16zx-_z3m_Animation{0%{opacity: 0;}6.67%{opacity: 1;}13.33%{opacity: 0;}20%{opacity: 1;}26.67%{opacity: 0;}33.33%{opacity: 1;}40%{opacity: 0;}46.67%{opacity: 1;}53.33%{opacity: 0;}60%{opacity: 1;}66.67%{opacity: 0;}73.33%{opacity: 1;}80%{opacity: 0;}86.67%{opacity: 1;}93.33%{opacity: 0;}100%{opacity: 1;}}#el_HytGeZOM27 *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_HJoGxWdMnQ{fill: #fff;}#el_BJnflWOMhX{-webkit-transform: translate(-421px, -177px);transform: translate(-421px, -177px);}#el_Sy0Ml-_M2X{fill: #fbb03b;-webkit-transform: translate(-421px, -177px);transform: translate(-421px, -177px);}#el_B16zx-_z3m{-webkit-animation-name: el_B16zx-_z3m_Animation;animation-name: el_B16zx-_z3m_Animation;opacity: 0;}</style>
+  <defs>
+    
+  </defs>
+  <title>lowgas</title>
+  <g id="el_HJcMeWOG3X" data-name="Layer 1">
+    <rect width="144" height="144" id="el_HJoGxWdMnQ"/>
+    <path d="M916.68,255A611.29,611.29,0,0,0,839.9,193.9l-13.23,15A252.76,252.76,0,0,1,892,249.27a15,15,0,0,0,11,27.86V501a10.62,10.62,0,0,0,.36,2.72A305.18,305.18,0,0,1,823,511c-7.64-.33-15-.93-22-1.74V225a12,12,0,0,0-12-12H612a12,12,0,0,0-12,12V541h-2a12,12,0,0,0-12,12v10a12,12,0,0,0,12,12H805a12,12,0,0,0,12-12V553a12,12,0,0,0-12-12h-4V523.56A395.22,395.22,0,0,0,925,515V283.29a254,254,0,0,1,21.61,31.49l13.24-15A611,611,0,0,0,916.68,255ZM773,381H628V236H773Z" id="el_BJnflWOMhX"/>
+  </g>
+  <g id="el_B16zx-_z3m" data-name="Layer 2">
+    <path d="M916.68,255A611.29,611.29,0,0,0,839.9,193.9l-13.23,15A252.76,252.76,0,0,1,892,249.27a15,15,0,0,0,11,27.86V501a10.62,10.62,0,0,0,.36,2.72A305.18,305.18,0,0,1,823,511c-7.64-.33-15-.93-22-1.74V225a12,12,0,0,0-12-12H612a12,12,0,0,0-12,12V541h-2a12,12,0,0,0-12,12v10a12,12,0,0,0,12,12H805a12,12,0,0,0,12-12V553a12,12,0,0,0-12-12h-4V523.56A395.22,395.22,0,0,0,925,515V283.29a254,254,0,0,1,21.61,31.49l13.24-15A611,611,0,0,0,916.68,255ZM773,381H628V236H773Z" id="el_Sy0Ml-_M2X"/>
+  </g>
+</svg>
